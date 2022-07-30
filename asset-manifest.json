@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hrithik-profile/static/css/main.5d8f1931.css",
+    "main.css": "/hrithik-profile/static/css/main.ffaf1b64.css",
     "main.js": "/hrithik-profile/static/js/main.4118f508.js",
     "index.html": "/hrithik-profile/index.html",
-    "main.5d8f1931.css.map": "/hrithik-profile/static/css/main.5d8f1931.css.map",
+    "main.ffaf1b64.css.map": "/hrithik-profile/static/css/main.ffaf1b64.css.map",
     "main.4118f508.js.map": "/hrithik-profile/static/js/main.4118f508.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d8f1931.css",
+    "static/css/main.ffaf1b64.css",
     "static/js/main.4118f508.js"
   ]
 }
